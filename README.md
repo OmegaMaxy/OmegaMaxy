@@ -21,13 +21,14 @@ Get to know me better:
 - ![](https://img.shields.io/badge/DEV-Batch-informational?style=flat&logo=GNU-Bash&logoColor=white&color=2bbc8a)
 - ![](https://img.shields.io/badge/DEV-PHP-informational?style=flat&logo=PHP&logoColor=white&color=2bbc8a)
 - ![](https://img.shields.io/badge/DEV-C++-informational?style=flat&logo=C++&logoColor=white&color=2bbc8a)
-- ![](https://img.shields.io/badge/DEV-C#-informational?style=flat&logo=C#&logoColor=white&color=2bbc8a)
+
 - ![Javascript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 - ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 - ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 - ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 - ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=FF0000)
-- ![](https://img.shields.io/badge/OS-Parrot-informational?style=flat&logo=linux&logoColor=white&color=FF0000)
+- ![](https://img.shields.io/badge/OS-Mint-informational?style=flat&logo=linux&logoColor=white&color=FF0000)
+- And much more!
 
 
 <h2>...<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
