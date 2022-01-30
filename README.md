@@ -1,6 +1,6 @@
-<img align='right' src="https://github.com/loTus04/loTus04/blob/main/img/Webp.net-resizeimage.gif" alt="Supposed to be a cool animation here hmm..">
+<img align='right' src="https://github.com/loTus04/loTus04/raw/main/img/Webp.net-resizeimage.gif" alt="Supposed to be a cool animation here hmm..">
 
-# Hellooooo there! <img src="https://github.com/loTus04/loTus04/blob/main/img/wave.gif" width="30px">
+# Hellooooo there! <img src="https://github.com/loTus04/loTus04/raw/main/img/wave.gif" width="30px">
 I am a young passionate about IT in general. I program in almost any big language. Been coding since 2012 
 </br>
 Meet [OmegaUna](https://omegauna.eu) 👋 a ✨ _special_ ✨ organisation supported by me!
