@@ -9,7 +9,7 @@ Meet [OmegaUna](https://omegauna.eu) 👋 a ✨ _special_ ✨ organisation suppo
 Get to know me better:
 
 - 🔭 I’m currently working on a secret project
-- 🌱 I’m currently learning: low level patterns
+- 🌱 I’m currently learning: system design
 - 👯 I’m looking to collaborate with any IT enthousiast!
 - 🤔 I’m looking for help with: server management
 - 💬 Ask me about: anything
